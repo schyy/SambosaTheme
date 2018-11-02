@@ -69,7 +69,7 @@ body, #page-body{
 #page-header .navbar,
 nav .container-max .hidden-sm-down,
 .footer,
-#page-body *{
+#vue-app{
   background-color:transparent !important;
 }
 
