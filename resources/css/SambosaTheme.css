@@ -67,7 +67,7 @@ body{
 }
 
 #page-header .navbar,
-nav .container-max .small .hidden-sm-down,
+nav .container-max .hidden-sm-down,
 .footer,
 #page-body *{
   background-color:transparent !important;
