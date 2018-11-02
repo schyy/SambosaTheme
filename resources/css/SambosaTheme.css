@@ -72,3 +72,21 @@ nav .container-max .hidden-sm-down,
 #page-body *{
   background-color:transparent !important;
 }
+
+select *{
+  background-color: #4d4f4d !important;
+  border:1px solid #ccc !important;
+}
+
+label *{
+  color: #b2b1a7 !important;
+}
+
+.footer-features *{
+  background-color: #4d4f4d !important;
+  border: 1px solid #ccc !important;
+}
+
+.ddown, .collapse li{
+  border: 1px solid #ccc !important;
+}
