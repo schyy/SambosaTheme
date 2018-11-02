@@ -61,7 +61,7 @@
   display:none !important;
 }
 
-body, #page-body{
+body, #page-body, .footer *{
   background-color: #4d4f4d !important;
   color: #fcfcfc !important;
 }
@@ -88,4 +88,12 @@ label *{
 }
 
 .ddown, .collapse li{
+}
+
+.text-dark-grey, .nav-item, .ddown li{
+  color: #fff !important;
+}
+
+.nav-item .active{
+  color: #ddd !important;
 }
