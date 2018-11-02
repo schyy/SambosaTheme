@@ -60,3 +60,15 @@
 .category-unit-price, .item-bundle, .add-to-basket-lg-container{
   display:none !important;
 }
+
+body{
+  background-color: #4d4f4d !important;
+  color: #fcfcfc !important;
+}
+
+#page-header .navbar,
+nav .container-max .small .hidden-sm-down,
+.footer,
+#page-body *{
+  background-color:transparent !important;
+}
