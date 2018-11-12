@@ -45,7 +45,6 @@
   }
 }
 
-
 #page-body{
   margin-top:4% !important;
 }
@@ -61,7 +60,7 @@
   display:none !important;
 }
 
-body, #page-body, .footer *{
+/*body, #page-body, .footer *{
   background-color: #4d4f4d !important;
   color: #fcfcfc !important;
 }
@@ -73,7 +72,7 @@ nav .container-max .hidden-sm-down,
   background-color:transparent !important;
 }
 
-select *{
+/*select *{
   background-color: #4d4f4d !important;
   border:1px solid #ccc !important;
 }
@@ -97,3 +96,4 @@ label *{
 .nav-item .active{
   color: #ddd !important;
 }
+*/
